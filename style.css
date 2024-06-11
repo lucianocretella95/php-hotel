@@ -8,3 +8,12 @@ body {
   background-color: #222;
   color: white;
 }
+
+.table {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  color: red;
+}
